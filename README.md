@@ -1,4 +1,4 @@
-<img  src="banner6.gif">
+<img  alt="coding" src="banner6.gif">
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
   <h3 align="center"></h3>
