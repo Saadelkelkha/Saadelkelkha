@@ -34,6 +34,6 @@
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadelkelkha&show_icons=true&locale=en" alt="saadelkelkha" /></p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sa%C3%A2d%20el%20kelkha%20&theme=gruvbox" alt="GitHub Streak" /></a>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadelkelkha&" alt="saadelkelkha" /></p>
 
 
