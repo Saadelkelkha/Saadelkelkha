@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/saadelkelkha" target="blank"><img src="https://img.shields.io/twitter/follow/saadelkelkha?logo=twitter&style=for-the-badge" alt="saadelkelkha" /></a> </p>
 
-- 📫 How to reach me **saadelkelkha@gmail.com**
+- 📫 How to reach me **saadelkelkha@gmail.com** 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saadelkelkha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saadelkelkha" height="30" width="40" /></a>
