@@ -9,7 +9,7 @@
 </p>
 <img src="pro.gif" width="100%" height="200px">
 <h1 align="center">Hi 👋, I'm Saad Elkelkha <img src="pro.jpeg" width="30px"></h1>
-<h3 align="center">Trainee at ISGI Marrakesh in the field of development digital</h3>
+<h3 align="center">Trainee at ISGI Marrakesh in the field of development digital - Option: Full Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="200w.webp">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Saadelkelkha&label=Profile%20views&color=0e75b6&style=flat" alt="Saadelkelkha" /> </p>
 
