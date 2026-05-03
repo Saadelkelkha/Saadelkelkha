@@ -7,8 +7,10 @@
 
   
 </p>
-<h1 align="center">Hi 👋, I'm Saad Elkelkha <img src="pro.jpeg" width="30px"></h1>
-<h3 align="center">Trainee at ISGI Marrakesh in the field of development digital - Option: Full Stack Developer</h3>
+
+> My name is Saad El Kelkha, a 21-year-old Full Stack Developer passionate about web development and modern application design. I specialize in creating innovative, efficient solutions that prioritize user needs. Curious, motivated, and dedicated, I continuously invest in improving both my technical expertise and personal skills to tackle new challenges in the digital world.
+
+
 <img align="right" alt="coding" width="400" src="200w.webp">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Saadelkelkha&label=Profile%20views&color=0e75b6&style=flat" alt="Saadelkelkha" /> </p>
 
