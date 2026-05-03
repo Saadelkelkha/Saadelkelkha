@@ -18,12 +18,11 @@
 
 - 📫 How to reach me **saadelkelkha@gmail.com** 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Saadelkelkha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Saadelkelkha" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/saad-el-kelkha-980880280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saad el kelkha" height="30" width="40" /></a>
-<a href="https://fb.com/saad.uzomaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saad.uzomaki" height="30" width="40" /></a>
-<a href="https://instagram.com/saad_el_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saad_el_x" height="30" width="40" /></a>
-</p>
+
+
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](saad-el-kelkha.vercel.app) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadelkelkah@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Saadelkelkha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saad-el-kelkha-980880280) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadelkelkah)
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Languages and Tools:</h3>
 
