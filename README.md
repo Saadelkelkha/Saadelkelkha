@@ -36,12 +36,8 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">🏆 Profile Trophy:</h3>
+<h3 align="center">📊 GitHub Stats:</h3>
 
+<p align="center"><img align="center" src="https://ghstats.dev/api/card?username=Saadelkelkha&theme=midnight" alt="GitHub Stats Card" /></p>
 
-
-
-
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saadelkelkha&" alt="Saadelkelkha" /></p>
 
